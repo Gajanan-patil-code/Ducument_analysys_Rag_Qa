@@ -34,7 +34,7 @@ git commit -m "<write your commit message>"
 git push
 
 # Cloning the repository
-git clone  https://github.com/Gajanan-patil-code/Ducument_analysys_Rag_Qa.git
+git clone https://github.com/sunnysavita10/document_portal.git
 ```
 ## Minimum Requirements for the Project
 
