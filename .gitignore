@@ -6,4 +6,9 @@ __pycache__/
 logs/
 *.pyc
 faiss_index/
+<<<<<<< HEAD
 main_archive/
+=======
+archive
+data
+>>>>>>> 0f62a6c31374a9351c9d2b2134dbc11341e90bab
